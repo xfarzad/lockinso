@@ -4,7 +4,7 @@
 	getgenv().ThirdPerson = true
 	getgenv().FirstPerson = true
 	getgenv().TeamCheck = false
-	getgenv().PredictMovement = true
+	getgenv().PredictMovement = false
 	getgenv().PredictionVelocity = 9
 	local L_27_, L_28_, L_29_, L_30_ =
             game:GetService "Players",
